@@ -1,0 +1,8 @@
+## Interface: 11508
+## Title: ForeverFriendsHub
+## Notes: Erfasst Charakterdaten und Aufenthaltsort für die Webseite foreverfriendshub.
+## Author: xelarus
+## Version: 0.1.0
+## SavedVariables: FFHubDB
+
+FFHub.lua
